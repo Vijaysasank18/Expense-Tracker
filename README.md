@@ -16,3 +16,5 @@ A simple console-based Java application to track income and expenses.
 ## How to Run
 
 1. Compile the program:
+
+2. Run the program:
